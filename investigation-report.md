@@ -17,7 +17,7 @@ Kortfattad beskrivning av den undersökta händelsen/trafiken, vilka system som 
 
 ---
 
-## 3. Teknisk Analys & Händelseförlopp (VG-nivå)
+## 3. Teknisk Analys & Händelseförlopp 
 *Beskriv händelseförloppet kronologiskt och förklara de tekniska mekanismerna bakom trafikmönstret/angreppet.*
 
 ### Kronologisk Tidslinje
